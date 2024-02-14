@@ -20,7 +20,7 @@ class Squared{
 let squared1 = new Squared(8)
 let squared2 = new Squared(8)
 
-
+ 
 console.log(squared1);
 console.log(Squared.equals(squared1,squared2));
 console.log(Squared.isValidDimensions(4,2))
