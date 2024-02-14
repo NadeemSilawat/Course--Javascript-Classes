@@ -33,7 +33,7 @@ const programmers = [
 
 function devlopeSoftware(programmers) {
     //Devlop Software
-    for(let programmer of programmers){
+    for (let programmer of programmers) {
         programmer.code();
     }
 }
