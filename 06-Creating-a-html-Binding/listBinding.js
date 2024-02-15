@@ -14,7 +14,7 @@ class ListBinding {
 
         return li
     }
-
+ 
     update() {
 
         /**Remove all existing <li> element/tages */
